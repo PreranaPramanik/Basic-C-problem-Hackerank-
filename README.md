@@ -1,4 +1,2 @@
 # Basic-C-problem-Hackerank-
-# First Problem.
-# Second problem.
-# Third problem
+# All Problems including basic intermediate hard. 
